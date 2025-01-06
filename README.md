@@ -39,8 +39,8 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/machine-learning-coursework.git
-   cd machine-learning-coursework
+   git clone https://github.com/vimesh630/ML_CW.git
+   cd ML_CW
    ```
 
 2. **Setup Environment**:
